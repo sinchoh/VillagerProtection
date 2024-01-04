@@ -1,0 +1,4 @@
+name: novillagerkill
+version: 1.0
+main: com.easteregg.villagerprotect.EasterEggPlugin
+api-version: '1.21'
